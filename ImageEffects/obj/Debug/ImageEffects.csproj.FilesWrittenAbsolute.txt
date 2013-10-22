@@ -1,5 +1,0 @@
-/Users/John/Projects/ImageEffects/ImageEffects/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
-/Users/John/Projects/ImageEffects/ImageEffects/bin/Debug/ImageEffects.dll.mdb
-/Users/John/Projects/ImageEffects/ImageEffects/bin/Debug/ImageEffects.dll
-/Users/John/Projects/ImageEffects/ImageEffects/obj/Debug/ImageEffects.dll
-/Users/John/Projects/ImageEffects/ImageEffects/obj/Debug/ImageEffects.dll.mdb
