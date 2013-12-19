@@ -20,7 +20,7 @@ namespace ImageEffects {
 		[Export ("applyTintEffectWithColor")]
 		UIImage ApplyTintEffectWithColor (UIColor tintColor);
 
-		[Export ("applyBlurWithRadius")]
+		[Export ("applyBlurWithRadius:tintColor:saturationDeltaFactor:maskImage:")]
 		UIImage ApplyBlurWithRadius (float blurRadius, UIColor tintColor, float saturationDeltaFactor, [NullAllowed]UIImage maskImage);
 	}
 }
